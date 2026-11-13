@@ -22,7 +22,7 @@ I build web products end to end, from the database schema to the last pixel of t
 
 - Python, with Django up next
 - Linux and cybersecurity fundamentals
-- Building AI agents
+- Building AI agents ([study fork of Annie Wang's Agent Valley lab](https://github.com/elion-dev00/agent-valley-lab))
 
 ## 🧰 Tech
 
